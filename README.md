@@ -1,4 +1,3 @@
-# blog-summary-gas
 # ブログ要約フォーム (Google Apps Script)
 
 ---
